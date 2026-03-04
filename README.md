@@ -127,9 +127,13 @@ This ensures full transparency of academic calculations.
 ## Our Project features
 
 ✔ Automatically extracts data from PDF
+
 ✔ Calculates GPA & CGPA
+
 ✔ Displays grade analytics graph
+
 ✔ Generates downloadable report
+
 ✔ Works as a web application
 
 ## ▶️ How to Run the Project
