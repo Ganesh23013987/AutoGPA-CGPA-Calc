@@ -8,7 +8,7 @@ from reportlab.lib.styles import getSampleStyleSheet
 from reportlab.lib.units import inch
 
 # ---------------- PAGE CONFIG ----------------
-st.set_page_config(page_title="AutoG/CGPA Calc", layout="wide")
+st.set_page_config(page_title="AutoG-CGPA Calc", layout="wide")
 
 # ---------------- BACKGROUND ----------------
 st.markdown("""
@@ -206,4 +206,5 @@ st.markdown("""
 © 2026 AutoGPA-CGPA Calculator | Developed by Ganesh D
 </p>
 """, unsafe_allow_html=True)
+
 
