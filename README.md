@@ -65,9 +65,8 @@ This project demonstrates practical implementation of data processing, automatio
 
 ### 🎓 GPA Formula
 
-\[
-GPA = \frac{\sum (Credits \times Grade\ Point)}{\sum Credits}
-\]
+<img width="580" height="580" alt="image" src="https://github.com/user-attachments/assets/d031f317-2486-4517-8b6e-52ac7dfcc914" />
+
 
 Where:
 - Weighted Points = Credits × Grade Point
@@ -77,9 +76,8 @@ Where:
 
 ### 🏆 CGPA Formula
 
-\[
-CGPA = \frac{Total\ Weighted\ Points\ (All\ Semesters)}{Total\ Credits\ (All\ Semesters)}
-\]
+<img width="580" height="580" alt="image" src="https://github.com/user-attachments/assets/9eac31ba-fc62-4fc5-b3a9-40f658fe3303" />
+
 
 Where:
 - Previous semester weighted totals are included
