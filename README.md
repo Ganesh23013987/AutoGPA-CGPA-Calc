@@ -126,7 +126,21 @@ This ensures full transparency of academic calculations.
 
 ---
 
+## Our Project features
+
+✔ Automatically extracts data from PDF
+✔ Calculates GPA & CGPA
+✔ Displays grade analytics graph
+✔ Generates downloadable report
+✔ Works as a web application
+
 ## ▶️ How to Run the Project
+
+streamlit run result.py
+
+Now our website is on live:
+
+https://autogpa-cgpa-calc.onrender.com/
 
 ### 1️⃣ Clone the Repository
 
