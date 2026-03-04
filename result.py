@@ -1,3 +1,6 @@
+## Dummy Code for our project
+
+
 import streamlit as st
 
 st.set_page_config(page_title="AutoGPA Calculator")
@@ -22,3 +25,4 @@ if file:
     st.metric("CGPA", "8.5")
 
 st.write("© 2026 AutoGPA Calculator")
+
